@@ -8,8 +8,6 @@ inputs: GraphA1NN.java, UndirectedGraph.java, LabelledPoint.java, PointSet.java,
 siftsmall_base.fvecs, siftsmall_query.fvecs, knn.txt, knn_3_10_100_10000.txt, Wesley Maya - Programming Assignment #2 Results.pdf, 
 and this file (ReadME.txt).
 
-NOTE: A more detailed explanation of the project is given in the "Programming Assignments #2 Results" PDF.
-
 Regards,
 
 Wesley Maya
